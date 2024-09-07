@@ -16,7 +16,14 @@ let beatriz = {
     link: "https://pt.wikipedia.org/wiki/Beatriz_Souza"
 };
 
+let tatiana = {
+    titulo : "Tatiana Weston-webb",
+    descricao : "Tatiana Weston-Webb: Uma força da natureza nas ondas Tatiana Guimarães Weston-Webb é uma surfista profissional que conquistou o mundo com sua habilidade e determinação. Nascida no Brasil e criada no Havaí, ela representa o Brasil em competições internacionais e já conquistou diversos títulos importantes, como etapas do World Surf League Championship Tour e medalhas em Jogos Olímpicos e Pan-Americanos.",
+    link : "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
+}
+
 let dados = [
     rayssa, 
     rebeca, 
-    beatriz];
+    beatriz,
+    tatiana];
